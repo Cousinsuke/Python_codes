@@ -1,0 +1,6 @@
+This will also write to the file
+is this on the same line or another line?
+another line of text
+bob,35,Builder
+This will append to the file
+open and close automatically

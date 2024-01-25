@@ -1,0 +1,10 @@
+Scirocco,1972,Black,Good,16012
+Eos,1999,White,OK,6051
+Type 2,2005,White,Bad,16696
+Lavida,1986,Black,Showroom,5756
+Jetta,2007,Yellow,Bad,7568
+Scirocco,1959,Green,OK,19131
+Eos,1971,White,Very Good,8874
+Polo,1957,Blue,Scrap,3241
+Eos,1980,Blue,OK,17503
+Polo,2007,Yellow,Restored,11471

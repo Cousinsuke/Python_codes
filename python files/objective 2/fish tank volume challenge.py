@@ -1,0 +1,5 @@
+num = int(input("enter the lenght of fish tank in cm"))
+num2 = int(input("enter the depth of fish tank in cm"))
+num3 = int(input("enter the height of fish tank in cm"))
+total = (num * num2 * num3) / (1000)
+print (round(total))
