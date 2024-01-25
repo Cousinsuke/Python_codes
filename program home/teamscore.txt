@@ -1,0 +1,4 @@
+red,2
+blue,3
+green,1
+yellow,4
